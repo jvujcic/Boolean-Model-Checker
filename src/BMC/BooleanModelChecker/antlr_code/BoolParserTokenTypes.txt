@@ -1,0 +1,37 @@
+// $ANTLR 2.7.7 (20060930): BoolGrammar.g -> BoolParserTokenTypes.txt$
+BoolParser    // output token vocab name
+PROC=4
+SSEQ=5
+STMT=6
+LSTMT=7
+ASSIGNMENT=8
+DECIDER=9
+PROCCALL=10
+EXPR=11
+LITERAL_decl="decl"=12
+ID=13
+COMMA=14
+SEMI=15
+LPAREN=16
+RPAREN=17
+LITERAL_begin="begin"=18
+LITERAL_end="end"=19
+COLON=20
+LITERAL_skip="skip"=21
+LITERAL_print="print"=22
+LITERAL_goto="goto"=23
+LITERAL_return="return"=24
+ASSIGN=25
+LITERAL_if="if"=26
+LITERAL_then="then"=27
+LITERAL_else="else"=28
+LITERAL_fi="fi"=29
+LITERAL_while="while"=30
+LITERAL_do="do"=31
+LITERAL_od="od"=32
+LITERAL_assert="assert"=33
+QMARK=34
+EMARK=35
+CONST=36
+BINOP=37
+WS=38
